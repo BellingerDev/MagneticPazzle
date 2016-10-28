@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 05a5434a981bcdf4fb59cc6768706383
+timeCreated: 1467904477
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle_001
+    100004: BezierCurve_020
+    100006: BezierCurve_021
+    100008: BezierCurve_022
+    100010: BezierCurve_023
+    100012: BezierCurve_024
+    100014: Cube_048
+    100016: Cube_049
+    100018: Cube_050
+    100020: Cube_051
+    100022: Cube_052
+    100024: Cube_053
+    100026: Cube_054
+    100028: Cube_055
+    100030: Cube_056
+    100032: Cube_057
+    100034: Cube_058
+    100036: Cube_059
+    100038: Cylinder_020
+    100040: Cylinder_021
+    100042: Cylinder_022
+    100044: Cylinder_023
+    100046: Cylinder_024
+    100048: //RootNode
+    400000: BezierCircle
+    400002: BezierCircle_001
+    400004: BezierCurve_020
+    400006: BezierCurve_021
+    400008: BezierCurve_022
+    400010: BezierCurve_023
+    400012: BezierCurve_024
+    400014: Cube_048
+    400016: Cube_049
+    400018: Cube_050
+    400020: Cube_051
+    400022: Cube_052
+    400024: Cube_053
+    400026: Cube_054
+    400028: Cube_055
+    400030: Cube_056
+    400032: Cube_057
+    400034: Cube_058
+    400036: Cube_059
+    400038: Cylinder_020
+    400040: Cylinder_021
+    400042: Cylinder_022
+    400044: Cylinder_023
+    400046: Cylinder_024
+    400048: //RootNode
+    2300000: BezierCircle
+    2300002: BezierCircle_001
+    2300004: BezierCurve_020
+    2300006: BezierCurve_021
+    2300008: BezierCurve_022
+    2300010: BezierCurve_023
+    2300012: BezierCurve_024
+    2300014: Cube_048
+    2300016: Cube_049
+    2300018: Cube_050
+    2300020: Cube_051
+    2300022: Cube_052
+    2300024: Cube_053
+    2300026: Cube_054
+    2300028: Cube_055
+    2300030: Cube_056
+    2300032: Cube_057
+    2300034: Cube_058
+    2300036: Cube_059
+    2300038: Cylinder_020
+    2300040: Cylinder_021
+    2300042: Cylinder_022
+    2300044: Cylinder_023
+    2300046: Cylinder_024
+    3300000: BezierCircle
+    3300002: BezierCircle_001
+    3300004: BezierCurve_020
+    3300006: BezierCurve_021
+    3300008: BezierCurve_022
+    3300010: BezierCurve_023
+    3300012: BezierCurve_024
+    3300014: Cube_048
+    3300016: Cube_049
+    3300018: Cube_050
+    3300020: Cube_051
+    3300022: Cube_052
+    3300024: Cube_053
+    3300026: Cube_054
+    3300028: Cube_055
+    3300030: Cube_056
+    3300032: Cube_057
+    3300034: Cube_058
+    3300036: Cube_059
+    3300038: Cylinder_020
+    3300040: Cylinder_021
+    3300042: Cylinder_022
+    3300044: Cylinder_023
+    3300046: Cylinder_024
+    4300000: Cube_059
+    4300002: Cylinder_024
+    4300004: Cube_058
+    4300006: Cylinder_023
+    4300008: Cylinder_022
+    4300010: Cube_057
+    4300012: Cube_056
+    4300014: Cylinder_021
+    4300016: Cube_055
+    4300018: Cube_054
+    4300020: Cube_053
+    4300022: Cube_050
+    4300024: Cube_052
+    4300026: Cube_051
+    4300028: Cube_049
+    4300030: Cylinder_020
+    4300032: Cube_048
+    4300034: BezierCircle_001
+    4300036: BezierCircle
+    4300038: BezierCurve_024
+    4300040: BezierCurve_023
+    4300042: BezierCurve_022
+    4300044: BezierCurve_021
+    4300046: BezierCurve_020
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

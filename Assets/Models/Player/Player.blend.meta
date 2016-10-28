@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 037da8dc9a2ba9a46ac759a6eb7df2a7
+timeCreated: 1463001412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Jumper
+    100004: Jumper_001
+    100006: Jumper_002
+    100008: Jumper_003
+    100010: Jumper_004
+    100012: Jumper_005
+    100014: Jumper_006
+    100016: Jumper_007
+    100018: Jumper_008
+    100020: Jumper_009
+    100022: Magnet_1
+    100024: Magnet_2
+    100026: //RootNode
+    400000: Base
+    400002: Jumper
+    400004: Jumper_001
+    400006: Jumper_002
+    400008: Jumper_003
+    400010: Jumper_004
+    400012: Jumper_005
+    400014: Jumper_006
+    400016: Jumper_007
+    400018: Jumper_008
+    400020: Jumper_009
+    400022: Magnet_1
+    400024: Magnet_2
+    400026: //RootNode
+    2300000: Base
+    2300002: Jumper
+    2300004: Jumper_001
+    2300006: Jumper_002
+    2300008: Jumper_003
+    2300010: Jumper_004
+    2300012: Jumper_005
+    2300014: Jumper_006
+    2300016: Jumper_007
+    2300018: Jumper_008
+    2300020: Jumper_009
+    2300022: Magnet_1
+    2300024: Magnet_2
+    3300000: Base
+    3300002: Jumper
+    3300004: Jumper_001
+    3300006: Jumper_002
+    3300008: Jumper_003
+    3300010: Jumper_004
+    3300012: Jumper_005
+    3300014: Jumper_006
+    3300016: Jumper_007
+    3300018: Jumper_008
+    3300020: Jumper_009
+    3300022: Magnet_1
+    3300024: Magnet_2
+    4300000: Magnet_1
+    4300002: Base
+    4300004: Magnet_2
+    4300006: Jumper
+    4300008: Jumper_009
+    4300010: Jumper_008
+    4300012: Jumper_007
+    4300014: Jumper_006
+    4300016: Jumper_005
+    4300018: Jumper_004
+    4300020: Jumper_003
+    4300022: Jumper_002
+    4300024: Jumper_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

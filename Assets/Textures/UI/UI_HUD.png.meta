@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 59efccc96fd2b8a468faa2385d69e409
+timeCreated: 1464020843
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_HUD_0
+    21300002: UI_HUD_1
+    21300004: UI_HUD_2
+    21300006: UI_HUD_3
+    21300008: UI_HUD_4
+    21300010: UI_HUD_5
+    21300012: UI_HUD_6
+    21300014: UI_HUD_7
+    21300016: UI_HUD_8
+    21300018: UI_HUD_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 153.6
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_HUD_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1812
+        width: 196
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 84, y: 118, z: 76, w: 50}
+      outline:
+      - - {x: 91, y: 63}
+        - {x: 45, y: 94}
+        - {x: -23, y: 94}
+        - {x: -65, y: 82}
+        - {x: -89, y: 58}
+        - {x: -89, y: -67}
+        - {x: -80, y: -77}
+        - {x: -66, y: -91}
+        - {x: 61, y: -91}
+        - {x: 84, y: -68}
+        - {x: 94, y: -41}
+        - {x: 94, y: 13}
+    - name: UI_HUD_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1812
+        width: 174
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 73, y: 114, z: 87, w: 74}
+      outline:
+      - - {x: -43, y: 90.5}
+        - {x: -83, y: 70.5}
+        - {x: -83, y: -65.5}
+        - {x: -46, y: -90.5}
+        - {x: 63, y: -90.5}
+        - {x: 77, y: -60.5}
+        - {x: 77, y: 68.5}
+        - {x: 45, y: 90.5}
+    - name: UI_HUD_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1818
+        width: 196
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 94, y: 65, z: 94, w: 107}
+      outline:
+      - - {x: 61, y: 79}
+        - {x: -78, y: 79}
+        - {x: -91, y: 53}
+        - {x: -91, y: -65}
+        - {x: -63, y: -81}
+        - {x: 67, y: -81}
+        - {x: 91, y: -41}
+        - {x: 91, y: 46}
+    - name: UI_HUD_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1848
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 41}
+        - {x: 26.5, y: 38}
+        - {x: 12.5, y: 5}
+        - {x: 12.5, y: -13}
+        - {x: 25.5, y: -44}
+        - {x: 28.5, y: -45}
+        - {x: 43.5, y: -45}
+        - {x: 45.5, y: 13}
+        - {x: 45.5, y: 33}
+        - {x: 44.5, y: 41}
+      - - {x: -15.5, y: 42}
+        - {x: -25.5, y: 42}
+        - {x: -45.5, y: 26}
+        - {x: -45.5, y: -30}
+        - {x: -28.5, y: -44}
+        - {x: -20.5, y: -44}
+        - {x: -12.5, y: -38}
+        - {x: -12.5, y: 37}
+      - - {x: 5.5, y: 42}
+        - {x: 1.5, y: 41}
+        - {x: -17.5, y: 10}
+        - {x: -17.5, y: -19}
+        - {x: -4.5, y: -44}
+        - {x: 14.5, y: -44}
+        - {x: 15.5, y: -10}
+        - {x: 15.5, y: 34}
+        - {x: 12.5, y: 42}
+    - name: UI_HUD_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1614
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 71, z: 79, w: 106}
+      outline:
+      - - {x: -79, y: 92}
+        - {x: -93, y: 56}
+        - {x: -93, y: -94}
+        - {x: 74, y: -94}
+        - {x: 91, y: -91}
+        - {x: 91, y: 90}
+        - {x: 87, y: 92}
+      - - {x: -85, y: -68}
+        - {x: 38, y: 72}
+        - {x: 73, y: 4}
+        - {x: 76, y: 0}
+    - name: UI_HUD_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1611
+        width: 165
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 110, z: 75, w: 72}
+      outline:
+      - - {x: -63.5, y: 90}
+        - {x: -68.5, y: 89}
+        - {x: -81.5, y: 59}
+        - {x: -81.5, y: -69}
+        - {x: -79.5, y: -94}
+        - {x: 79.5, y: -94}
+        - {x: 79.5, y: 81}
+        - {x: 60.5, y: 90}
+      - - {x: -61.5, y: -48}
+        - {x: -22.5, y: 59}
+        - {x: 48.5, y: 63}
+        - {x: 21.5, y: -65}
+    - name: UI_HUD_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1614
+        width: 193
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 92, y: 66, z: 91, w: 105}
+      outline:
+      - - {x: -92.5, y: 80.5}
+        - {x: -92.5, y: -48.5}
+        - {x: -70.5, y: -80.5}
+        - {x: 90.5, y: -80.5}
+        - {x: 90.5, y: 69.5}
+        - {x: 83.5, y: 80.5}
+      - - {x: -67.5, y: -49.5}
+        - {x: -53.5, y: 63.5}
+        - {x: 34.5, y: 56.5}
+        - {x: 63.5, y: -27.5}
+    - name: UI_HUD_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1646
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 45}
+        - {x: -20.5, y: 37}
+        - {x: -20.5, y: -43}
+        - {x: 14.5, y: -43}
+        - {x: 14.5, y: 45}
+      - - {x: 26.5, y: 45}
+        - {x: 24.5, y: 44}
+        - {x: 9.5, y: 10}
+        - {x: 9.5, y: -12}
+        - {x: 23.5, y: -43}
+        - {x: 37.5, y: -43}
+        - {x: 41.5, y: -41}
+        - {x: 43.5, y: -24}
+        - {x: 43.5, y: 45}
+      - - {x: -25.5, y: 46}
+        - {x: -29.5, y: 45}
+        - {x: -48.5, y: 11}
+        - {x: -48.5, y: -15}
+        - {x: -45.5, y: -29}
+        - {x: -34.5, y: -42}
+        - {x: -13.5, y: -42}
+        - {x: -13.5, y: 45}
+        - {x: -14.5, y: 46}
+    - name: UI_HUD_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1829
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -67, y: 80.5}
+        - {x: -80, y: 73.5}
+        - {x: -80, y: -70.5}
+        - {x: -74, y: -78.5}
+        - {x: 71, y: -78.5}
+        - {x: 80, y: -65.5}
+        - {x: 80, y: 68.5}
+        - {x: 69, y: 80.5}
+    - name: UI_HUD_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1396
+        width: 730
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 453, y: 86, z: 228, w: 46}
+      outline:
+      - - {x: -365, y: 67}
+        - {x: -365, y: -67}
+        - {x: 365, y: -67}
+        - {x: 365, y: 67}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
